@@ -4,3 +4,4 @@ TheEscapeCharacters
 Isaiah Schultz.
 Chris Norby.
 Andrew Zurn.
+Andrew J. Thom.
