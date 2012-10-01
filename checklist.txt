@@ -1,0 +1,136 @@
+               Training Process Checklist for new Trilinos team members
+
+PLAN:        
+  New team member name:  
+  Date initiated:
+  Estimated completion date:
+  
+  
+DO (Project, Capability, or Package Leader will check required items)
+
+  _x_  Verify familiarity with necessary programming language(s) and operating
+        system(s).
+       Languages verified:
+       OS's verified:
+       Date completed:
+
+  _x_  Verify familiarity with git and/or eg.  Introductory material available
+       at: https://software.sandia.gov/trilinos/developer/git.html
+       Date completed:  
+
+  _x_  Review the Trilinos CMake quickstart available at:
+       http://trilinos.sandia.gov/build_instructions.html
+       Date completed: 
+
+  ___  Read the Trilinos tutorial.
+       http://trilinos.sandia.gov/documentation.html
+       Date completed:
+
+  ___  Read Trilinos Developer's Guide.  (Not updated for Trilinos 10.0)
+       https://software.sandia.gov/trilinos/developer/publications.html
+       Date completed:
+
+  ___  Read Trilinos Software Lifecycle Model.
+       https://software.sandia.gov/trilinos/developer/publications.html
+       Date completed:
+
+  _x_  Browse the Trilinos developer and Trilinos user websites:
+       https://software.sandia.gov/trilinos/developer
+       http://trilinos.sandia.gov
+       Date completed:
+
+  _x_  Complete a git push with mentor:
+       + Use the checkin-test.py script prior to pushing.  The push can be 
+         performed automatically by the checkin-test.py script (if there are no
+         failures) by using the --push opiton.
+       + Make any necessary changes to Bugzilla bugs (after the next day's test 
+         harness results, if appropriate).
+       Date completed:
+	   
+  ___  Read/do Android tutorials supplied by Mike
+		+ Make the "Hello World" tutorial app
+       Date completed:
+	   
+  ___  Read/do git tutorials supplied by Mike
+       Date completed:
+	   
+  ___  Install Android SDK/necessary source material
+       + Use Exclipse plugin
+	   + Setup at least ONE virtual machine to run .apk(s)
+       Date completed:
+	   
+  ___  Create team name/account with github.
+       Date completed:
+	   
+  ___  Setup/test github permissions.
+	   + Test permissions by having all memebers modify a README file on team's
+	     github
+       Date completed:	   
+	   
+  ___  Browse Google Play store to familiarize team with what's already on the
+		market.
+       Date completed:
+	   
+  ___  Browse Google Code to familiarize team with relevant code ideas/
+		techniques/etc.
+       Date completed:	   
+	   
+	   
+	   
+       Date completed:
+       
+       
+CHECK
+  Date of process completion:
+  Reviewed by:
+  Date of review:
+  
+
+ACT
+  Lessons learned or problems discovered following this process:
+  
+  
+
+------------------------------------------------------------------------------
+General Directions:
+The process initiation date should be filled in immediately to initiate 
+this process.  The initiation date must be the date of printing.  
+The indicated checklist steps may be completed in any reasonable order.  The 
+process shall be considered complete when all steps have been completed.
+
+Specific Directions:
+Mentor will review adequacy of knowledge in an area. If satisfied, the mentor
+will indicate satisfaction by filling in the date completed. The project or
+package leader can delegate any number of mentors - but only one for each area.
+
+------------------------------------------------------------------------------
+QA
+
+Authority to perform process:
+Any team member may initiate a meeting using this procedure.  If a meeting is 
+called by a person outside of the team (i.e. customer, management ), a  team 
+member shall take responsibility for  completing this document and assuring the 
+checklist is complete.  If a "spontaneous" meeting of at least four team 
+members occurs, it shall be documented after the fact with this checklist.
+
+If this process or associated document is superseded after an activity has been 
+initiated, the process shall be completed under this version unless specifically
+notified otherwise by the team leader.
+
+Stage Entrance and Stage Exit:
+The stage entrance is the process initiation by any authorized person.  
+All necessary process inputs are built into the checklist.  The stage exit is 
+the completion of this form (all steps completed and metrics entered.)
+
+Process Ownership:
+This document and associated procedure are owned by the Project Leader who 
+must approve any changes.  This document is under version control.  
+
+  CVS File Information
+  $RCSfile: newTrilinosDeveloper201003.txt,v $
+  $Author: jmwille $
+  $Date: 2010/03/02 18:32:08 $
+  $Revision: 1.1 $
+
+This document supersedes all previous versions.
+
